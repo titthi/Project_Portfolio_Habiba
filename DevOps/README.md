@@ -9,4 +9,6 @@ This project demonstrates the use of current DevOps tools and deploy a web appli
 
 The overall CI/CD Pipeline architecture is shown in the following diagram:
 
+![CI_CD_Architecture_dark](https://github.com/titthi/Project_Portfolio_Habiba/assets/99510264/96bd20a0-a1da-46a2-897c-8bcffcb09267)
+
 The detailed step by step description is provided in the 'Project_Description_Step_By_Step.pdf' file
