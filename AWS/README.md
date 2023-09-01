@@ -4,6 +4,6 @@ This project demonstrates the overall steps to build and deploy containerized ap
 
 The Code Pipeline architecture is shown in the following diagram:
 
-![AWS_Containerization_dark](https://github.com/titthi/Project_Portfolio_Habiba/assets/99510264/6cf98331-04a6-44c6-9a7a-27a4083903a8)
+![AWS_Containerization_dark](https://github.com/titthi/Project_Portfolio_Habiba/assets/99510264/2235d6f9-1be3-4ffa-a48c-0febefe45ca0)
 
 The detailed step by step description is provided in the 'Project_Description_Step_By_Step.pdf' file
